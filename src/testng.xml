@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name=" Expleo Automation Test ">
+	<test name="Challenging DOM">
+	  <classes>
+		<class name="com.test.project.ChallengingDOM"></class>
+	  </classes>
+	</test>
+</suite>

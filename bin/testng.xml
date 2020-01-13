@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name=" TestNG Session by Naveen - Automation ">
+	<test name="TestNG demo for running automation suite">
+	  <classes>
+		<class name="com.test.project.DependencyTestNG"></class>
+		<class name="com.test.project.ExceptionTimeOut"></class>
+		<class name="com.test.project.FirstTestNG"></class>
+		<class name="com.test.project.GoogleTestAssert"></class>
+		<class name="com.test.project.InvocationCount"></class>
+		<class name="com.test.project.SearchGoogleTest"></class>
+ 	 </classes>
+	</test>
+</suite>
